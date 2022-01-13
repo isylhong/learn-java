@@ -1,4 +1,4 @@
-package com.autumn.java8.annotation;
+package com.autumn.learn.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
